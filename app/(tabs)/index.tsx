@@ -6,7 +6,7 @@ export default function Index() {
       <Text style={styles.content}>
         Edit app/index.tsx to edit this screen. 
       </Text>
-      <Text>hi</Text>
+      <Text>hi </Text>
     </View>
   );
 }
